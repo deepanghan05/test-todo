@@ -1,1 +1,3 @@
 new project to learn
+
+build and deploy it end to end
